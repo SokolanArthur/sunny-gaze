@@ -1,0 +1,11 @@
+{
+    "product": [
+      { "id": 0, "name": "Шачибури", "price": 100, "imageUrl":"png/drinks/drink1" },
+      { "id": 1, "name": "Чивапчичи", "price": 200, "imageUrl":"png/drinks/drink2" },
+      { "id": 2, "name": "Зелень", "price": 250, "imageUrl":"png/drinks/drink3" },
+      { "id": 3, "name": "Кот", "price": 210, "imageUrl":"png/drinks/drink4" },
+      { "id": 4, "name": "Учёный", "price": 110, "imageUrl":"png/drinks/drink5" },
+      { "id": 5, "name": "Ходит", "price": 150, "imageUrl":"png/drinks/drink1" },
+      { "id": 6, "name": "По цепи", "price": 180, "imageUrl":"png/drinks/drink2" }
+    ]
+}
